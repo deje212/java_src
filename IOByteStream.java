@@ -4,7 +4,7 @@
  */
 import java.io.*;
 
-public class IOCopyFile {
+public class IOByteStream {
     
     public static void main(String args[]) throws IOException {  
       System.out.println("Current Path :"+ new File(".").getAbsoluteFile());
