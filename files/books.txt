@@ -1,0 +1,6 @@
+Thinking in Java
+The Passionate Programmer
+Head First Java
+Effective Java
+Code Complete
+Core Java Programming
